@@ -5,5 +5,5 @@ hide: true
 ---
 
 <div align="center">
-<img width="90%" src="https://raw.githubusercontent.com/mindy-cc/mindy-cc.github.io/main/logo.png">
+<img width="50%" src="https://raw.githubusercontent.com/mindy-cc/mindy-cc.github.io/main/logo.png">
 </div>  
