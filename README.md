@@ -1,1 +1,1 @@
-# mindy-cc.github.io
+# mindy.cc
