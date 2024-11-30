@@ -1,0 +1,11 @@
+title: mindy.cc
+description: mindy.cc
+email: info@mindy.cc
+url: "https://mindy.cc"
+remote_theme: sylhare/Type-on-Strap
+cookie_consent: true
+google_analytics: G-5JP6L4L4DL
+color_theme: auto
+footer_text: '© 2024'
+plugins:
+  - jekyll-remote-theme
