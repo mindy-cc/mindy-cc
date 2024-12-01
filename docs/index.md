@@ -1,5 +1,5 @@
 
 # Under construction
 <div align="center">
-<img width="50%" src="imgs/logo.png">
+<img width="100%" src="imgs/logo.png">
 </div>  
