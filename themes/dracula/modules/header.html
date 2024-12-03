@@ -19,7 +19,7 @@
                     <!--  endblock -->
 
                     <!-- block search -->
-                    <li class="nav-item">
+                    <li class="nav-item" hidden>
                         {%- block search_button %}
                             {%- if 'search' in config['plugins'] %}{%- include "searchbox.html" %}{%- endif %}
                         {%- endblock %}
