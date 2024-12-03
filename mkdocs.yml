@@ -1,4 +1,4 @@
-site_name: mindy.cc
+site_name: mindY
 theme:
   name: null
   custom_dir: themes/dracula
@@ -12,3 +12,6 @@ nav:
     - Home: index.md
     - More:
       - nav/settings/custom-highlight.md
+
+extra:
+  custom_cname: mindy.cc
